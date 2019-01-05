@@ -1,4 +1,4 @@
-/*12131469 김경수 OS homework1-2 Finding the lowest value */
+/*OS homework1-2 Finding the lowest value */
 
 #include <stdio.h>
 #include <pthread.h>
