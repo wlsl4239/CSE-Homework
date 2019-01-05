@@ -13,7 +13,7 @@ e*d = 1 (mod phi)
 - Extended Euclidean Algorithm  
 - Chinese Remainder Theorem   
 
-RSA
+RSA  
 C = M^e % N  
 M = C^d % N  
 
