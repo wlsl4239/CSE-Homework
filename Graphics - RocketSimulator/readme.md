@@ -1,6 +1,6 @@
 # Rocket simulator
 
-<조작>  
+## <조작>  
 - w키, ↑키 : zoom in  
 - s키, ↓키 : zoom out  
 - a키, ←키, 마우스 왼쪽으로 이동 : 왼쪽으로 회전  
