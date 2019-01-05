@@ -1,4 +1,4 @@
-/*12131469 김경수 OS homework1-1 Finding the highest value */
+/*OS homework1-1 Finding the highest value */
 
 #include <stdio.h>
 #include <pthread.h>
