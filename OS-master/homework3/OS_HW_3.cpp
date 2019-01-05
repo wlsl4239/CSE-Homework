@@ -1,4 +1,4 @@
-/* 12131469 김경수 OS Homework3 - virtual memory */
+/* OS Homework3 - virtual memory */
 #include <iostream>
 #include <string>
 #include <algorithm>
