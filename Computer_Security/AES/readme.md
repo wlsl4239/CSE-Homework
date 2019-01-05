@@ -1,4 +1,4 @@
-# 과제1 : Modified AES 구현  
+# Modified AES
  
 Irreducible Polynomials 변경: 101101001
 
